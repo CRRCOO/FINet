@@ -71,7 +71,7 @@ Traning hyperparameters and data paths can be modified in `config.py`.
 ## 3. Pre-computed Maps and Trained Weights
 
 + Pre-computed Maps: 
-   + FINet (EfficientNet-B0): [Google Drive](https://drive.google.com/file/d/1mLOV0RcCVc0jlGFOcPQsEZ1j53OhvPjh/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/14iOO_acOFntSU_OTbWEz7g)
+   + FINet (EfficientNet-B0): [Google Drive](https://drive.google.com/file/d/1mLOV0RcCVc0jlGFOcPQsEZ1j53OhvPjh/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/1wUd4E9_Dt00adKh7o0JXpA) (extraction code: 0w3w)
    + FINet (TinyNet-A): [Google Drive](https://drive.google.com/file/d/1ogdU4KURdJSQGs-e7ciz1fo-viw_AVBf/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/1RJKRg9sPjO9GQs_5nbUaOQ) (extraction code: ymjm)
 
 + Trained Weights: 
