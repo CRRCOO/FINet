@@ -20,7 +20,7 @@
 <p align="center">
     <img src="imgs/FINet.png"/> <br />
     <em> 
-    Figure 1: Overall architecture of the proposed FINet, which comprises two components: frequency injection module (FIM) and asymmetric decoder block (ADB). The FIM mainly consists of two modules: high frequency injection module (HFIM) and low frequency injection module (LFIM). $F^h$ and $F^l$ denote high and low frequency features, respectively.
+    Figure 1: Overall architecture of the proposed FINet, which comprises two components: frequency injection module (FIM) and asymmetric decoder block (ADB). The FIM mainly consists of two modules: high frequency injection module (HFIM) and low frequency injection module (LFIM). F^h^ and F^l^ denote high and low frequency features, respectively.
     </em>
 </p>
 
