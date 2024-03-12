@@ -14,7 +14,7 @@ def inference(datasets):
 	model.eval()
 	for dataset in datasets:
 		assert dataset in ['CHAMELEON', 'CAMO', 'COD10K', 'NC4K']
-		save_path = os.path.join('prediction_maps-tinyneta', dataset)
+		save_path = os.path.join('prediction_maps', dataset)
 		os.makedirs(save_path, exist_ok=True)
 
 		test_dataset = TestDataset(image_root=getattr(cfg.dp, f'test_{dataset}_imgs'),
