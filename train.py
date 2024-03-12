@@ -5,7 +5,7 @@ import torch.nn.functional as F
 from utils.dataloader_freq import TrainDataset
 from utils.LRScheduler import CosineDecay
 from config import Config
-from tqdm import tqdm 
+from tqdm import tqdm
 
 
 def structure_loss(logits, mask):
