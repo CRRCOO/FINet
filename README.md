@@ -58,8 +58,12 @@ You can modify `config.py` to set all the data paths. Here is an example of a se
 
 ### 2.2 Training Configuration
 
-Traning hyperparameters and data paths can be modified in `config.py`.
++ Traning hyperparameters and data paths can be modified in `config.py`.
 
++ Installing necessary packages:
+   + torch-dct: https://github.com/zh217/torch-dct
+   + pysodmetrics: https://github.com/lartpang/PySODMetrics
+  
 ### 2.3 Training, Inference, and Testing
 
 + Run `train.py` to train the model.
