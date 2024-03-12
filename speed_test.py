@@ -2,7 +2,7 @@
 Modified according to
 https://github.com/GewelsJI/SINet-V2/blob/main/utils/fps.py
 https://github.com/yuhuan-wu/MobileSal/blob/master/speed_test.py
-"""
+""" 
 
 import torch, time
 import numpy as np
