@@ -9,7 +9,7 @@
 
 ## 1. Overview
 
-- This repository provides code for "_**FINet: Frequency Injection Network for Lightweight Camouflaged Object Detection**_" IEEE SPL 2024. [Paper](https://ieeexplore.ieee.org/document/10409558) 
+- This repository provides code for "_**FINet: Frequency Injection Network for Lightweight Camouflaged Object Detection**_", IEEE Signal Processing Letters, 2024. [Paper](https://ieeexplore.ieee.org/document/10409558) 
 
 ### 1.1. Introduction
 
@@ -70,9 +70,13 @@ Traning hyperparameters and data paths can be modified in `config.py`.
 
 ## 3. Pre-computed Maps and Trained Weights
 
-+ Pre-computed Maps: [FINet (EfficientNet-B0)](), [FINet (TinyNet-A)]()
++ Pre-computed Maps: 
+   + FINet (EfficientNet-B0): [Baidu Drive](https://pan.baidu.com/s/14iOO_acOFntSU_OTbWEz7g) (extraction code: nsj5)
+   + FINet (TinyNet-A): [Baidu Drive](https://pan.baidu.com/s/1RJKRg9sPjO9GQs_5nbUaOQ) (extraction code: ymjm)
 
-+ Trained Weights: [FINet (EfficientNet-B0)](), [FINet (TinyNet-A)]()
++ Trained Weights: 
+   + FINet (EfficientNet-B0): [Baidu Drive](https://pan.baidu.com/s/1BAJPzBMor6vozokqoazepg) (extraction code: m8o7)
+   + FINet (TinyNet-A): [Baidu Drive](https://pan.baidu.com/s/1umx3q7WXla4V0q7MQLxHiQ) (extraction code: i7hc)
 
 
 ## 4. Citation
