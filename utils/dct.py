@@ -40,24 +40,6 @@ def rgb2gray(rgb):
     return gray
 
 
-def unfold_patchs(img, P=8):
-    B, _, H, _ = img.shape
-    kernel_size = H // P
-    temp = F.unfold(img, kernel_size=kernel_size, stride=kernel_size)
-    patchs = torch.permute(temp, dims=(0, 2, 1)).reshape(B, -1, kernel_size, kernel_size)
-    return patchs
-
-
-def fold_patchs(patchs, output_H):
-    B, _, kernel_size, _ = patchs.shape
-    P = output_H // kernel_size
-    patchs = torch.flatten(patchs, start_dim=2)
-    patchs = patchs.reshape(B, P * P, -1)
-    patchs = torch.permute(patchs, dims=(0, 2, 1))
-    feature = F.fold(patchs, output_size=output_H, kernel_size=kernel_size, stride=kernel_size)
-    return feature
-
-
 def dct_2d(rgb_tensor, P=8):
     """
     Modified according to https://github.com/VisibleShadow/Implementation-of-Detecting-Camouflaged-Object-in-Frequency-Domain/blob/main/train.py
