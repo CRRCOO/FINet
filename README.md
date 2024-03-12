@@ -71,12 +71,12 @@ Traning hyperparameters and data paths can be modified in `config.py`.
 ## 3. Pre-computed Maps and Trained Weights
 
 + Pre-computed Maps: 
-   + FINet (EfficientNet-B0): [Baidu Drive](https://pan.baidu.com/s/14iOO_acOFntSU_OTbWEz7g) (extraction code: nsj5)
-   + FINet (TinyNet-A): [Baidu Drive](https://pan.baidu.com/s/1RJKRg9sPjO9GQs_5nbUaOQ) (extraction code: ymjm)
+   + FINet (EfficientNet-B0): [Google Drive](https://drive.google.com/file/d/1mLOV0RcCVc0jlGFOcPQsEZ1j53OhvPjh/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/14iOO_acOFntSU_OTbWEz7g)
+   + FINet (TinyNet-A): [Google Drive](https://drive.google.com/file/d/1ogdU4KURdJSQGs-e7ciz1fo-viw_AVBf/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/1RJKRg9sPjO9GQs_5nbUaOQ) (extraction code: ymjm)
 
 + Trained Weights: 
-   + FINet (EfficientNet-B0): [Baidu Drive](https://pan.baidu.com/s/1BAJPzBMor6vozokqoazepg) (extraction code: m8o7)
-   + FINet (TinyNet-A): [Baidu Drive](https://pan.baidu.com/s/1umx3q7WXla4V0q7MQLxHiQ) (extraction code: i7hc)
+   + FINet (EfficientNet-B0): [Google Drive](https://drive.google.com/file/d/1ePSiaW14I_NecnBAXE7O_-ApIuFFduuI/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/1BAJPzBMor6vozokqoazepg) (extraction code: m8o7)
+   + FINet (TinyNet-A): [Google Drive](https://drive.google.com/file/d/1rzyEp-DeoYLePngk6rzdiGgNr1juYJTM/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/1umx3q7WXla4V0q7MQLxHiQ) (extraction code: i7hc)
 
 
 ## 4. Citation
