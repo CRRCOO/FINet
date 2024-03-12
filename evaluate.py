@@ -25,7 +25,7 @@ def evaluate(pred_path, dataset):
 
 
 if __name__ == '__main__':
-	pred_path = 'prediction_maps-tinyneta'
+	pred_path = 'prediction_maps'
 
 	cfg = Config()
 
