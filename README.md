@@ -63,6 +63,7 @@ You can modify `config.py` to set all the data paths. Here is an example of a se
 + Installing necessary packages:
    + torch-dct: https://github.com/zh217/torch-dct
    + pysodmetrics: https://github.com/lartpang/PySODMetrics
+   + timm: https://github.com/huggingface/pytorch-image-models
   
 ### 2.3 Training, Inference, and Testing
 
