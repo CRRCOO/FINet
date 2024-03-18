@@ -61,6 +61,7 @@ You can modify `config.py` to set all the data paths. Here is an example of a se
 + Traning hyperparameters and data paths can be modified in `config.py`.
 
 + Installing necessary packages:
+   + pytorch: https://pytorch.org
    + torch-dct: https://github.com/zh217/torch-dct
    + pysodmetrics: https://github.com/lartpang/PySODMetrics
    + timm: https://github.com/huggingface/pytorch-image-models
