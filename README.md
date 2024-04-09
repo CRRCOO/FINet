@@ -81,8 +81,8 @@ You can modify `config.py` to set all the data paths. Here is an example of a se
    + FINet (TinyNet-A): [Google Drive](https://drive.google.com/file/d/1ogdU4KURdJSQGs-e7ciz1fo-viw_AVBf/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/1RJKRg9sPjO9GQs_5nbUaOQ) (extraction code: ymjm)
 
 + Trained Weights: 
-   + FINet (EfficientNet-B0): [Google Drive](https://drive.google.com/file/d/1ePSiaW14I_NecnBAXE7O_-ApIuFFduuI/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/1BAJPzBMor6vozokqoazepg) (extraction code: m8o7)
-   + FINet (TinyNet-A): [Google Drive](https://drive.google.com/file/d/1rzyEp-DeoYLePngk6rzdiGgNr1juYJTM/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/1umx3q7WXla4V0q7MQLxHiQ) (extraction code: i7hc)
+   + FINet (EfficientNet-B0): [Google Drive](https://drive.google.com/file/d/1ePSiaW14I_NecnBAXE7O_-ApIuFFduuI/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/1JNtzpoVZbVjF-15rFK6WuQ) (extraction code: hdrs)
+   + FINet (TinyNet-A): [Google Drive](https://drive.google.com/file/d/1rzyEp-DeoYLePngk6rzdiGgNr1juYJTM/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/165lLc7iOD0WD6DsllgpC2Q) (extraction code: 22gg)
 
 
 ## 4. Citation
